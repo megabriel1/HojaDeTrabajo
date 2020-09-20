@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mycompany.practicados"},{"l":"com.mycompany.practicados.controller"},{"l":"com.mycompany.practicados.controller.proveedor"},{"l":"com.mycompany.practicados.model"},{"l":"com.mycompany.practicados.service"}]
